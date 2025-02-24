@@ -35,6 +35,6 @@ construction-smart-test
 **Part 2 : Frontend** ( Vue js ) 
 - Make sure all package installed (npm install / yarn )
 - Make sure 
-  baseURL: 'https://localhost:7051/api' is correct for comminication within **Backend**
+  baseURL: 'https://localhost:7051/api' (**services/axios.js**) is correct for comminication within **Backend**
 
   
