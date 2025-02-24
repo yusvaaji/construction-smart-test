@@ -31,6 +31,8 @@ construction-smart-test
     "Audience": "grafikAudience"
   }
 
+  - once Backend services **running**, you can access **https://localhost:7051/index.html** for API Documentation
+
 **Part 2 : Frontend** ( Vue js ) 
 - Make sure all package installed (npm install / yarn )
 - Make sure 
