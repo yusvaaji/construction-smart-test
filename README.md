@@ -1,7 +1,7 @@
 # construction-smart-test
 construction-smart-test
 
-**Part 1 : Backend**
+**Part 1 : Backend** (.net core , Kafka , ElasticSearch)
 
 - Make sure all nuget package installed
 
@@ -31,7 +31,7 @@ construction-smart-test
     "Audience": "grafikAudience"
   }
 
-**Part 2 : Front**
+**Part 2 : Frontend** ( Vue js ) 
 - Make sure all package installed (npm install / yarn )
 - Make sure 
   baseURL: 'https://localhost:7051/api' is correct for comminication within **Backend**
