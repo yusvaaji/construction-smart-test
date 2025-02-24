@@ -3,7 +3,7 @@ construction-smart-test
 
 **Part 1 : Backend** (.net core , Kafka , ElasticSearch)
 
-- Make sure all nuget package installed
+- Make sure all nuget package installed (**dotnet restore** command)
 
 - **appsettings.json**
     "ConnectionStrings": {
@@ -30,7 +30,7 @@ construction-smart-test
         "Issuer": "grafikIssuer",
         "Audience": "grafikAudience"
       }
-- once Backend services **running**, you can access **https://localhost:7051/index.html** for API Documentation
+- run "**dotnet build** command" , once Backend services **running**, you can access **https://localhost:7051/index.html** for API Documentation
 
 **Part 2 : Frontend** ( Vue js ) 
 - Make sure all package installed (npm install / yarn )
